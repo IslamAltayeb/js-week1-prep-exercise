@@ -177,3 +177,5 @@ console.log(myFavAnimal);
 
 var mySentence = "Programming is so interesting!";
 console.log(mySentence.length);
+
+console.log("it was easy");
